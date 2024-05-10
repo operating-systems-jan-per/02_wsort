@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <strings.h>
 
 /*
  * Betriebssysteme - RUB 2024
@@ -83,9 +84,9 @@ int main() {
     return EXIT_SUCCESS;
 }
 
-// Compare two strings
+// Compare two strings case-insensitively
 static int compareStrings(const void *a, const void *b) {
-    return strcmp(*(const char **)a, *(const char **)b);
+    return strcasecmp(*(const char **)a, *(const char **)b);
 }
 
 // Sort words using qsort
