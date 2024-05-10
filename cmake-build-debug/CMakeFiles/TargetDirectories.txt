@@ -1,0 +1,3 @@
+/Users/perstarke/Documents/Uni/AI-RUB/Semester 1/OS/Übungen/02_wsort/02_wsort/cmake-build-debug/CMakeFiles/02_wsort.dir
+/Users/perstarke/Documents/Uni/AI-RUB/Semester 1/OS/Übungen/02_wsort/02_wsort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/perstarke/Documents/Uni/AI-RUB/Semester 1/OS/Übungen/02_wsort/02_wsort/cmake-build-debug/CMakeFiles/rebuild_cache.dir

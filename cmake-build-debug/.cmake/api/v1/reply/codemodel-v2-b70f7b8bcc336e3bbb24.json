@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.28"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "02_wsort",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "02_wsort::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_wsort-Debug-2880d68bc74dfcabac8b.json",
+					"name" : "02_wsort",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/perstarke/Documents/Uni/AI-RUB/Semester 1/OS/\u00dcbungen/02_wsort/02_wsort/cmake-build-debug",
+		"source" : "/Users/perstarke/Documents/Uni/AI-RUB/Semester 1/OS/\u00dcbungen/02_wsort/02_wsort"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
